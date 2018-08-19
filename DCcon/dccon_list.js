@@ -107,6 +107,8 @@
 
 	{"name":"노랭이1.gif", 		"keywords":["노랭이"],						"tags":["미니"]},
 	{"name":"노랭이2.gif", 		"keywords":["노랭이2"],						"tags":["미니"]},
+	{"name":"정신.gif", 		"keywords":["정신"],						"tags":["미니"]},
+
 	{"name":"닉놀람.gif", 		"keywords":["닉놀람"],						"tags":["주토피아", "움짤"]},
   {"name":"닉댄스.gif", 		"keywords":["닉댄스"],						"tags":["주토피아", "움짤"]},
 	{"name":"닉띠용.gif", 		"keywords":["닉띠용"],						"tags":["주토피아", "움짤"]},
