@@ -35,7 +35,7 @@
   {"name":"미니감동.gif",		"keywords":["감동"],					"tags":["미니"]},
   {"name":"미니감사.gif",		"keywords":["감사"],					"tags":["미니"]},
   {"name":"미니감탄.gif",		"keywords":["감탄"],					"tags":["미니"]},
-  {"name":"미니꺼져.gif",		"keywords":["꺼져"],					"tags":["미니"]},
+  {"name":"미니꺼져.gif",		"keywords":["꺼졍"],					"tags":["미니"]},
   {"name":"미니꺼져2.gif",		"keywords":["꺼져2"],					"tags":["미니"]},
   {"name":"미니나나.gif",		"keywords":["나나"],					"tags":["미니"]},
   {"name":"미니난준택.gif",		"keywords":["난준택"],					"tags":["미니"]},
