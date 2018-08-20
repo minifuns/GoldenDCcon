@@ -19,7 +19,7 @@
   {"name":"이풍당당3.gif",		"keywords":["이풍당당3"],					"tags":["움짤"]},
   {"name":"트로피카나.gif",		"keywords":["트로피카나"],					"tags":["움짤"]},
   {"name":"트로피카나2.gif",		"keywords":["트로피카나2"],					"tags":[""]},
-  {"name":"폭발그루트.gif",		"keywords":["그루트펑"],					"tags":[""]},
+
   {"name":"",		"keywords":[""],					"tags":[""]},
   {"name":"",		"keywords":[""],					"tags":[""]},
   {"name":"",		"keywords":[""],					"tags":[""]},
