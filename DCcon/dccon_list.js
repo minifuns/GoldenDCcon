@@ -1,16 +1,16 @@
 ﻿dcConsData = [
 
   {"name":"팝콘.png",		"keywords":["팝콘"],					"tags":["짤"]},
+  {"name":"AMD.png",		"keywords":["암드"],					"tags":[""]},
+  {"name":"INTEL.png",		"keywords":["인텔"],					"tags":[""]},
+  {"name":"sega.png",		"keywords":["쎄가" , "세가"],					"tags":[""]},
+  {"name":"",		"keywords":[""],					"tags":[""]},
+  {"name":"",		"keywords":[""],					"tags":[""]},
+  {"name":"",		"keywords":[""],					"tags":[""]},
+  {"name":"",		"keywords":[""],					"tags":[""]},
 
 
-
-
-
-
-
-
-
-
+  {"name":"국뽕펄럭1.gif",		"keywords":["펄럭"],					"tags":["움짤"]},
   {"name":"ppap.gif",		"keywords":["ppap"],					"tags":["움짤"]},
   {"name":"무지개깃발.gif",		"keywords":["무지개깃발"],					"tags":["움짤"]},
   {"name":"예풍당당.gif",		"keywords":["예풍당당"],					"tags":["움짤"]},
@@ -20,14 +20,15 @@
   {"name":"트로피카나.gif",		"keywords":["트로피카나"],					"tags":["움짤"]},
   {"name":"트로피카나2.gif",		"keywords":["트로피카나2"],					"tags":[""]},
 
+  {"name":"가젤1.gif",		"keywords":["가젤1"],					"tags":["쥬톱"]},
+  {"name":"가젤2.gif",		"keywords":["가젤2"],					"tags":["쥬톱"]},
+  {"name":"가젤3.gif",		"keywords":["가젤3"],					"tags":["쥬톱"]},
+  {"name":"가젤4.gif",		"keywords":["가젤4"],					"tags":["쥬톱"]},
+  {"name":"가젤.gif",		"keywords":["가젤"],					"tags":[""]},
   {"name":"",		"keywords":[""],					"tags":[""]},
   {"name":"",		"keywords":[""],					"tags":[""]},
   {"name":"",		"keywords":[""],					"tags":[""]},
   {"name":"",		"keywords":[""],					"tags":[""]},
-  {"name":"",		"keywords":[""],					"tags":[""]},
-  {"name":"",		"keywords":[""],					"tags":[""]},
-
-
 
 
 
@@ -63,6 +64,7 @@
   {"name":"미니흠칫2.gif",		"keywords":["흠칫2"],					"tags":["미니"]},
   {"name":"미니흥얼.gif",		"keywords":["흥얼"],					"tags":["미니"]},
 
+
   {"name":"손님빨갱이.gif",		"keywords":["빨갱이", "화남"],					"tags":["롤코타", "손님", "움짤"]},
 	{"name":"손님멀미1.gif",		"keywords":["멀미", "멀미1"], 					"tags":["롤코타", "손님"]},
 	{"name":"손님멀미2.gif",		"keywords":["멀미2"],						"tags":["롤코타", "손님", "움짤"]},
@@ -73,20 +75,57 @@
 	{"name":"손님무표정.gif", 		"keywords":["무표정"], 						"tags":["롤코타", "손님"]},
 	{"name":"손님불행1.gif", 		"keywords":["불행", "불행1"],					"tags":["롤코타", "손님"]},
 	{"name":"손님불행2.gif", 		"keywords":["불행2"], 						"tags":["롤코타", "손님"]},
+	{"name":"롤코하트라인.gif",		"keywords":["하트라인"],					"tags":["롤코타", "롤러코스터"]},
+  {"name":"",		"keywords":[""],					"tags":[""]},
+
+  {"name":"기구보트.png",		"keywords":["보트"],					"tags":["롤코" , "기구"]},
+  {"name":"기구비행접시.png",		"keywords":["비행접시"],					"tags":["롤코" , "기구"]},
+  {"name":"기구삐뚤어진집.png",		"keywords":["삐뚤어진집"],					"tags":["롤코" , "기구"]},
+  {"name":"기구서스펜디드모노레일.png",		"keywords":["서스펜디드모노레일"],					"tags":["롤코" , "기구"]},
+  {"name":"기구서커스.png",		"keywords":["서커스"],					"tags":["롤코" , "기구"]},
+  {"name":"기구스페어링.png",		"keywords":["스페어링"],					"tags":["롤코" , "기구"]},
+  {"name":"기구스플래시보트.png",		"keywords":["스플래시보"],					"tags":["롤코" , "기구"]},
+  {"name":"기구양탄자.png",		"keywords":["양탄자"],					"tags":["롤코" , "기구"]},
+  {"name":"기구엔터프라이즈.png",		"keywords":["엔터프라이즈"],					"tags":["롤코" , "기구"]},
+  {"name":"기구엘리베이터.png",		"keywords":["엘리베이터" , "엘베"],					"tags":["롤코" , "기구"]},
+  {"name":"기구영화관.png",		"keywords":["영화관"],					"tags":["롤코" , "기구"]},
+  {"name":"기구워터슬라이드.png",		"keywords":["워터슬라이드" , "슬라이드"],					"tags":["롤코" , "기구"]},
+  {"name":"기구유령기차.png",		"keywords":["유령기차"],					"tags":["롤코" , "기구"]},
+  {"name":"기구자이로드롭.png",		"keywords":["자이로드롭"],					"tags":["롤코" , "기구"]},
+  {"name":"기구자전거.png",		"keywords":["자전거"],					"tags":["롤코" , "기구"]},
+  {"name":"기구전망탑.png",		"keywords":["전망탑"],					"tags":["롤코" , "기구"]},
+  {"name":"기구체어리프트.png",		"keywords":["체어리프트"],					"tags":["롤코" , "기구"]},
+  {"name":"기구카누.png",		"keywords":["카누"],					"tags":["롤코" , "기구"]},
+  {"name":"기구카라이드.png",		"keywords":["카라이드"],					"tags":["롤코" , "기구"]},
+  {"name":"기구탑스핀.png",		"keywords":["탑스핀"],					"tags":["롤코" , "기구"]},
+  {"name":"기구트램.png",		"keywords":["트램"],					"tags":["롤코" , "기구"]},
+  {"name":"기구트위스트.png",		"keywords":["트위스트"],					"tags":["롤코" , "기구"]},
+  {"name":"기구회전목마.png",		"keywords":["회전목마"],					"tags":["롤코" , "기구"]},
+  {"name":"기구후룸라이드.png",		"keywords":["후룸라이드"],					"tags":["롤코" , "기구"]},
+  {"name":"기구범퍼카.png",		"keywords":["범퍼카"],					"tags":["롤코" , "기구"]},
+  {"name":"기구백조보트.png",		"keywords":["백조보트"],					"tags":["롤코" , "기구"]},
+  {"name":"기구바이킹.png",		"keywords":["바이킹"],					"tags":["롤코" , "기구"]},
+  {"name":"기구미니헬리콥터.png",		"keywords":["헬리콥터"],					"tags":["롤코" , "기구"]},
+  {"name":"기구모형기차.png",		"keywords":["모형기차"],					"tags":["롤코" , "기구"]},
+  {"name":"기구모션시뮬레이터.png",		"keywords":["모션시뮬레이터" ,"모션시뮬"],					"tags":["롤코" , "기구"]},
+  {"name":"기구모노레일.png",		"keywords":["모노레일"],					"tags":["롤코" , "기구"]},
+  {"name":"기구메이즈.png",		"keywords":["메이즈"],					"tags":["롤코" , "기구"]},
+  {"name":"기구리버래피드.png",		"keywords":["리버래피드"],					"tags":["롤코" , "기구"]},
+  {"name":"기구런치드프리폴.png",		"keywords":["런치드프리폴" , "런치드"],					"tags":["롤코" , "기구"]},
+  {"name":"기구떼껄룩카라이드.png",		"keywords":["떼껄룩라이드" , "껄룩라이드"],					"tags":["롤코" , "기구"]},
+  {"name":"기구나선미끄럼틀.png",		"keywords":["나선미끄럼틀" , "나선" , "미끄럼틀"],					"tags":["롤코" , "기구"]},
+  {"name":"기구귀신의집.png",		"keywords":["귀신의집" , "유령의집"],					"tags":["롤코" , "기구"]},
+  {"name":"기구2층전망탑.png",		"keywords":["2층전망탑"],					"tags":["롤코" , "기구"]},
+  {"name":"기구2층회전목마.png",		"keywords":["2층회전목마"],					"tags":["롤코" , "기구"]},
+  {"name":"기구360도바이킹.png",		"keywords":["360도바이킹" , "360도"],					"tags":["롤코" , "기구"]},
+  {"name":"기구고카트.png",		"keywords":["고카트"],					"tags":["롤코" , "기구"]},
+  {"name":"기구골프.png",		"keywords":["골프" , "미니골프"],					"tags":["롤코" , "기구"]},
+  {"name":"기구관람차.png",		"keywords":["관람차"],					"tags":["롤코" , "기구"]},
 
   {"name":"롤코봅슬레이.png",		"keywords":["봅슬레이"],					"tags":["롤코타", "롤러코스터"]},
 	{"name":"롤코수직낙하.png",		"keywords":["수직낙하"],					"tags":["롤코타", "롤러코스터"]},
 	{"name":"롤코우든.png",			"keywords":["우든"],						"tags":["롤코타", "롤러코스터"]},
 	{"name":"롤코탄광.png",			"keywords":["탄광"],						"tags":["롤코타", "롤러코스터"]},
-	{"name":"롤코하트라인.gif",		"keywords":["하트라인"],					"tags":["롤코타", "롤러코스터"]},
-	{"name":"기구메이즈.png",		"keywords":["메이즈"],						"tags":["롤코타", "놀이기구"]},
-	{"name":"기구모노레일.png",		"keywords":["모노레일"],					"tags":["롤코타", "놀이기구"]},
-	{"name":"기구모형기차.png",		"keywords":["모형기차"],					"tags":["롤코타", "놀이기구"]},
-	{"name":"기구모션시뮬레이터.png",	"keywords":["모션시뮬레이터"],					"tags":["롤코타", "놀이기구"]},
-	{"name":"기구범퍼카.png",		"keywords":["범퍼카"],						"tags":["롤코타", "놀이기구"]},
-	{"name":"기구보트.png",			"keywords":["보트"],						"tags":["롤코타", "놀이기구"]},
-	{"name":"기구영화관.png",		"keywords":["영화관"],						"tags":["롤코타", "놀이기구"]},
-	{"name":"기구회전목마.png",		"keywords":["회전목마"],					"tags":["롤코타", "놀이기구"]},
 	{"name":"상점ATM.png",			"keywords":["ATM"],						"tags":["롤코타", "상점"]},
 	{"name":"상점병원.png",			"keywords":["병원"],						"tags":["롤코타", "상점"]},
 	{"name":"상점안내소.png",		"keywords":["안내소"],						"tags":["롤코타", "상점"]},
