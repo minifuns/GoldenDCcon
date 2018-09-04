@@ -25,7 +25,7 @@
   {"name":"삐침.png",		"keywords":["삐침"],					"tags":["짤"]},
   {"name":"산소답답.png",		"keywords":["답답"],					"tags":["짤"]},
   {"name":"수동발전.png",		"keywords":["수동발전"],					"tags":["짤"]},
-  {"name":"수웩흠.png",		"keywords":["수웩흠"],					"tags":["짤"]},
+  {"name":"스웩흠.png",		"keywords":["스웩흠"],					"tags":["짤"]},
   {"name":"심의공포.png",		"keywords":["공포"],					"tags":["짤"]},
   {"name":"심의범죄.png",		"keywords":["범죄"],					"tags":["짤"]},
   {"name":"심의사행.png",		"keywords":["사행"],					"tags":["짤"]},
