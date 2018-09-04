@@ -52,8 +52,13 @@
   {"name":"흠.png",		"keywords":["흠"],					"tags":["짤"]},
   {"name":"흠2.png",		"keywords":["흠2"],					"tags":["짤"]},
   {"name":"흠흠흠.png",		"keywords":["흠흠흠"],					"tags":["짤"]},
-  {"name":"역가서순.png",		"keywords":["서순"],					"tags":["움짤"]},
-  {"name":"역가순서.png",		"keywords":["순서"],					"tags":["움짤"]},
+  {"name":"역가서순.png",		"keywords":["서순"],					"tags":["짤"]},
+  {"name":"역가순서.png",		"keywords":["순서"],					"tags":["짤"]},
+  {"name":"싸닉.png",		"keywords":["싸닉"],					"tags":["짤"]},
+  {"name":"골든싸닉.png",		"keywords":["골든싸닉"],					"tags":["짤"]},
+  {"name":"사딸라.png",		"keywords":["사딸라"],					"tags":["짤"]},
+  {"name":"따일즈.png",		"keywords":["따일즈"],					"tags":["짤"]},
+  {"name":"나클즈.png",		"keywords":["나클즈"],					"tags":["짤"]},
 
   {"name":"국뽕펄럭1.gif",		"keywords":["펄럭"],					"tags":["움짤"]},
   {"name":"ppap.gif",		"keywords":["ppap"],					"tags":["움짤"]},
@@ -130,6 +135,10 @@
   {"name":"회전흠.gif",		"keywords":["회전흠"],					"tags":["움짤"]},
   {"name":"회전흠2.gif",		"keywords":["회전흠2"],					"tags":["움짤"]},
   {"name":"회전흠3.gif",		"keywords":["회전흠3"],					"tags":["움짤"]},
+  {"name":"1.gif",		"keywords":["두근두근"],					"tags":["움짤"]},
+  {"name":"icon_17.gif",		"keywords":["어케이겼노"],					"tags":["움짤"]},
+  {"name":"icon_18.gif",		"keywords":["어케했노"],					"tags":["움짤"]},
+
 
   {"name":"가젤1.gif",		"keywords":["가젤1"],					"tags":["쥬톱" , "움짤"]},
   {"name":"가젤2.gif",		"keywords":["가젤2"],					"tags":["쥬톱" , "움짤"]},
