@@ -85,7 +85,7 @@
   {"name":"역가순서.gif",		"keywords":["순서"],					"tags":["움짤"]},
   {"name":"예풍당당.gif",		"keywords":["예풍당당"],					"tags":["움짤"]},
   {"name":"우리핵드럼.gif",		"keywords":["우리핵드럼"],					"tags":["움짤"]},
-  {"name":"우리핵박수.gif",		"keywords":["우리핵박수"],					"tags":["움짤"]},
+  {"name":"우리핵박수1.gif",		"keywords":["우리핵박수"],					"tags":["움짤"]},
   {"name":"우리핵박수2.gif",		"keywords":["우리핵박수2"],					"tags":["움짤"]},
   {"name":"우리핵박수3.gif",		"keywords":["우리핵박수3"],					"tags":["움짤"]},
   {"name":"우리핵병신.gif",		"keywords":["우리핵병신"],					"tags":["움짤"]},
