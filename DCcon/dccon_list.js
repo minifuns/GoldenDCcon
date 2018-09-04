@@ -334,7 +334,7 @@
 	{"name":"상점안내소.png",		"keywords":["안내소"],						"tags":["롤코타", "상점"]},
 	{"name":"상점촉수.png",			"keywords":["촉수가게"],					"tags":["롤코타", "상점"]},
 	{"name":"상점풍선.png",			"keywords":["풍선가게"], 					"tags":["롤코타", "상점"]},
-	{"name":"상점화장실.png",		"keywords":["화장실"],						"tags":["롤코타", "상점"]}
+	{"name":"상점화장실.png",		"keywords":["화장실"],						"tags":["롤코타", "상점"]},
   {"name":"상점감자칩.png",		"keywords":["감자칩"],					"tags":["롤코타", "상점"]},
   {"name":"상점감자튀김.png",		"keywords":["감자튀김"],					"tags":["롤코타", "상점"]},
   {"name":"상점고기국수.png",		"keywords":["고기국수"],					"tags":["롤코타", "상점"]},
@@ -367,5 +367,5 @@
   {"name":"상점프레첼.png",		"keywords":["프레첼"],					"tags":["롤코타", "상점"]},
   {"name":"상점핫도그.png",		"keywords":["핫도그"],					"tags":["롤코타", "상점"]},
   {"name":"상점핫초코.png",		"keywords":["핫초코"],					"tags":["롤코타", "상점"]},
-  {"name":"상점햄버거.png",		"keywords":["햄버거"],					"tags":["롤코타", "상점"]},
+  {"name":"상점햄버거.png",		"keywords":["햄버거"],					"tags":["롤코타", "상점"]}
 ];
