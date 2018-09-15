@@ -135,7 +135,6 @@
   {"name":"회전흠.gif",		"keywords":["회전흠"],					"tags":["움짤"]},
   {"name":"회전흠2.gif",		"keywords":["회전흠2"],					"tags":["움짤"]},
   {"name":"회전흠3.gif",		"keywords":["회전흠3"],					"tags":["움짤"]},
-  {"name":"두근두근.gif",		"keywords":["두근두근"],					"tags":["움짤"]},
   {"name":"어케이겼노.gif",		"keywords":["어케이겼노"],					"tags":["움짤"]},
   {"name":"어케했노.gif",		"keywords":["어케했노"],					"tags":["움짤"]},
   {"name":"1.gif",		"keywords":["두근두근"],					"tags":["움짤"]},
