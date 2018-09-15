@@ -122,7 +122,7 @@
   {"name":"찐따.gif",		"keywords":["찐따"],					"tags":["움짤"]},
   {"name":"카광단두개.gif",		"keywords":["단두개"],					"tags":["움짤"]},
   {"name":"카광단세개.gif",		"keywords":["단세개"],					"tags":["움짤"]},
-  {"name":"카광단하나.gif",		"keywords":["단하나"],					"tag카광.gifs":["움짤"]},
+  {"name":"카광단하나.gif",		"keywords":["단하나"],					"tags":["움짤"]},
   {"name":"카광뭐어라고.gif",		"keywords":["뭐라고"],					"tags":["움짤"]},
   {"name":"카광저오빠.gif",		"keywords":["저오빠"],					"tags":["움짤"]},
   {"name":"카광혼자오셨.gif",		"keywords":["혼자오셨"],					"tags":["움짤"]},
@@ -138,6 +138,7 @@
   {"name":"두근두근.gif",		"keywords":["두근두근"],					"tags":["움짤"]},
   {"name":"어케이겼노.gif",		"keywords":["어케이겼노"],					"tags":["움짤"]},
   {"name":"어케했노.gif",		"keywords":["어케했노"],					"tags":["움짤"]},
+  {"name":"1.gif",		"keywords":["두근두근"],					"tags":["움짤"]},
 
   {"name":"가젤1.gif",		"keywords":["가젤1"],					"tags":["쥬톱" , "움짤"]},
   {"name":"가젤2.gif",		"keywords":["가젤2"],					"tags":["쥬톱" , "움짤"]},
