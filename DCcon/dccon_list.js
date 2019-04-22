@@ -218,6 +218,13 @@
   {"name":"카벙클.png",		"keywords":["카방클", "카방"],					"tags":["뿌테"]},
   {"name":"페리뻐큐.png",		"keywords":["페리뻐큐"],					"tags":["뿌테"]},
 
+  {"name":"난죽택.gif",		"keywords":["난죽택"],					"tags":["돌겜"]},
+  {"name":"정규거지.gif",		"keywords":["뭐?" , "정규거지"],					"tags":["돌겜"]},
+  {"name":"하스삭제.gif",		"keywords":["하스삭제", "돌겜삭제"],					"tags":["돌겜"]},
+  {"name":"화난닭.gif",		"keywords":["화난닭"],					"tags":["돌겜"]},
+  {"name":"니놈추.png",		"keywords":["니놈추", "네놈추"],					"tags":["돌겜"]},
+  {"name":"우정대.png",		"keywords":["우정대","우정데"],					"tags":["돌겜"]},
+
   {"name":"미니울랄라.gif",		"keywords":["울랄라"],					"tags":["미니"]},
   {"name":"미니간절.gif",		"keywords":["간절"],					"tags":["미니"]},
   {"name":"미니감동.gif",		"keywords":["감동"],					"tags":["미니"]},
