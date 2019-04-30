@@ -69,7 +69,7 @@
   {"name":"사딸라.png",		"keywords":["사딸라"],					"tags":["짤"]},
   {"name":"따일즈.png",		"keywords":["따일즈"],					"tags":["짤"]},
   {"name":"나클즈.png",		"keywords":["나클즈"],					"tags":["짤"]},
-  {"name":"갓겜.png",		"keywords":["갓겜"],					"tags":["짤"]},.
+  {"name":"갓겜.png",		"keywords":["갓겜"],					"tags":["짤"]},
   {"name":"사냥.png",		"keywords":["사냥"],					"tags":["짤"]},
   {"name":"우서.png",		"keywords":["우서"],					"tags":["짤"]},
   {"name":"자그거.png",		"keywords":["자그거"],					"tags":["짤"]},
